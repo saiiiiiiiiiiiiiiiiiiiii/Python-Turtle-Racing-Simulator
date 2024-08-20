@@ -1,5 +1,3 @@
-# Python Turtle Racing Simulator
-# This Python script implements a Turtle Racing Simulator using the turtle graphics module. It features a configurable number of turtle "racers" (between 2 to 10), each initialized with a unique color. The turtles move in random increments vertically across the screen in a race to reach the top boundary first. The program utilizes key functions for input validation, turtle initialization, and race logic. The winning turtle's color is determined by its position and output to the user, offering a visual and interactive demonstration of basic Python programming concepts.
 
 import turtle
 import time
